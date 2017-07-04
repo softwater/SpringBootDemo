@@ -1,0 +1,24 @@
+
+                                                          bbbbbbbb
+WWWWWWWW                           WWWWWWWW               b::::::b                    SSSSSSSSSSSSSSS   iiii          tttt
+W::::::W                           W::::::W               b::::::b                  SS:::::::::::::::S i::::i      ttt:::t
+W::::::W                           W::::::W               b::::::b                 S:::::SSSSSS::::::S  iiii       t:::::t
+W::::::W                           W::::::W                b:::::b                 S:::::S     SSSSSSS             t:::::t
+ W:::::W           WWWWW           W:::::W eeeeeeeeeeee    b:::::bbbbbbbbb         S:::::S            iiiiiiittttttt:::::ttttttt        eeeeeeeeeeee
+  W:::::W         W:::::W         W:::::Wee::::::::::::ee  b::::::::::::::bb       S:::::S            i:::::it:::::::::::::::::t      ee::::::::::::ee
+   W:::::W       W:::::::W       W:::::We::::::eeeee:::::eeb::::::::::::::::b       S::::SSSS          i::::it:::::::::::::::::t     e::::::eeeee:::::ee
+    W:::::W     W:::::::::W     W:::::We::::::e     e:::::eb:::::bbbbb:::::::b       SS::::::SSSSS     i::::itttttt:::::::tttttt    e::::::e     e:::::e
+     W:::::W   W:::::W:::::W   W:::::W e:::::::eeeee::::::eb:::::b    b::::::b         SSS::::::::SS   i::::i      t:::::t          e:::::::eeeee::::::e
+      W:::::W W:::::W W:::::W W:::::W  e:::::::::::::::::e b:::::b     b:::::b            SSSSSS::::S  i::::i      t:::::t          e:::::::::::::::::e
+       W:::::W:::::W   W:::::W:::::W   e::::::eeeeeeeeeee  b:::::b     b:::::b                 S:::::S i::::i      t:::::t          e::::::eeeeeeeeeee
+        W:::::::::W     W:::::::::W    e:::::::e           b:::::b     b:::::b                 S:::::S i::::i      t:::::t    tttttte:::::::e
+         W:::::::W       W:::::::W     e::::::::e          b:::::bbbbbb::::::b     SSSSSSS     S:::::Si::::::i     t::::::tttt:::::te::::::::e
+          W:::::W         W:::::W       e::::::::eeeeeeee  b::::::::::::::::b      S::::::SSSSSS:::::Si::::::i     tt::::::::::::::t e::::::::eeeeeeee
+           W:::W           W:::W         ee:::::::::::::e  b:::::::::::::::b       S:::::::::::::::SS i::::::i       tt:::::::::::tt  ee:::::::::::::e
+            WWW             WWW            eeeeeeeeeeeeee  bbbbbbbbbbbbbbbb         SSSSSSSSSSSSSSS   iiiiiiii         ttttttttttt      eeeeeeeeeeeeee
+
+
+
+
+
+
