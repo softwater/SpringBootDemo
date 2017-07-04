@@ -1,3 +1,7 @@
 server:
   context-path: /yml
   port: 8082
+
+book:
+  author: 张三
+  name: Spring Boot
