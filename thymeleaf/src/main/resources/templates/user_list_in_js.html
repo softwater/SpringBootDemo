@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>在js中获取对象</title>
+</head>
+<body>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script th:inline="javascript">
+    var list = [[${userList}]];
+    for (var i = 0; i<list.length; i++) {
+        console.log(list[i]["name"] + "\t" + list[i]["age"] + "岁");
+    }
+    alert("请在开发者中心的控制台（console）里查看")
+</script>
+
+</body>
+</html>
