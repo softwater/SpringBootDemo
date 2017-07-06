@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Spring Boot + WebSocket 广播式</title>
+</head>
+<body onload="disconnect()">
+<noscript><h2 style="color: brown;">貌似你的浏览器不支持 WebSocket</h2></noscript>
+<div>
+    <div>
+        <button id="connect" onclick="connect();">连接</button>
+        <button id="disconnect" onclick="disconnect();">连接</button>
+    </div>
+    <div id="conversationDiv">
+        <label>输入你的名字</label>
+        <input type="text" id="name">
+        <button id="sendName" onclick="sendName();">发送</button>
+        <p id="response"></p>
+    </div>
+</div>
+
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.js"></script>
+<script src="https://cdn.bootcss.com/stomp.js/2.3.3/stomp.js"></script>
+<script src="https://cdn.bootcss.com/sockjs-client/1.1.4/sockjs.js"></script>
+<script type="text/javascript">
+    var stompClient;
+    function setConnected(connected) {
+        document.getElementById('connect').disable = connected;
+        document.getElementById('disconnect').disable = !connected;
+        document.getElementById('conversationDiv').style.visibility = connected ? 'visible' : 'hidden';
+        $('#response').html();
+    }
+
+    function connect() { var socket = new SockJS('/ endpointWisely'); //1 stompClient = Stomp. over( socket); //2 stompClient. connect({}, function( frame) { //3 setConnected( true);
+
+</script>
+</body>
+</html>
